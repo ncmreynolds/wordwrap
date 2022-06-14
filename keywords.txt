@@ -1,0 +1,9 @@
+wordwrap	KEYWORD1
+
+//Setup
+wrap	KEYWORD2
+box	KEYWORD2
+
+ellipsis	LITERAL1
+crlf	LITERAL1
+overflowed	LITERAL1
