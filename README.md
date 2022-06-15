@@ -11,6 +11,10 @@ This is intended for use on microcontrollers with more memory than classic AVR A
 
 The code is not terribly efficient, with lots of wasteful String use, like others of my libraries it mostly exists to avoid reinventing the wheel in my own projects. Pull requests to improve this are very welcome.
 
+## Installation
+
+This library should be available in the Arduino IDE library manager if you search for 'wordwrap' or 'word wrap'.
+
 ## Usage
 
 Including the library reates and instance of the *wordwrapClass* of *wordwrap* which you will normally use.
